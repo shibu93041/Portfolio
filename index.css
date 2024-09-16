@@ -246,11 +246,11 @@ section {
 }
 
 .progress-line.css span {
-    width: 60%;
+    width:75%;
 }
 
 .progress-line.javaScript span {
-    width: 75%;
+    width: 60%;
 }
 
 .progress-line.react span {
