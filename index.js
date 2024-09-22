@@ -35,14 +35,14 @@ window.onscroll = () => {
 
 };
 
-ScrollReveal({
-    distance:'80px',
-    duration:1000,
-    delay:100,
-});
-ScrollReveal().reveal('.home-content, heading',{origin:'top'});
+// ScrollReveal({
+//     distance:'80px',
+//     duration:1000,
+//     delay:100,
+// });
+// ScrollReveal().reveal('.home-content, heading',{origin:'top'});
 // ScrollReveal().reveal('.container1, .portfolio-box, .contact form',{origin:'buttom'});
-ScrollReveal().reveal('.home-content h1, .about-img', {origin:'left'});
+// ScrollReveal().reveal('.home-content h1, .about-img', {origin:'left'});
 // ScrollReveal().reveal('.about-content',{origin:'right'});
 
 
